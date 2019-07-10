@@ -21,6 +21,9 @@
   },
   "dependencies": {
     "@material/button": "^1.0.1",
+    "@material/drawer": "^3.0.0",
+    "@material/image-list": "^3.0.0",
+    "@material/list": "^3.0.0",
     "@material/ripple": "^1.1.0",
     "@material/textfield": "^1.0.1"
   }
