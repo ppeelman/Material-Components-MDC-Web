@@ -24,13 +24,13 @@
   width: 300px;
   margin: 20px auto;
 
-  &:not(.mdc-text-field--invalid) {
+  /*  &:not(.mdc-text-field--invalid) {
     @include mdc-text-field-label-color(on-primary);
-  }
+  } */
 
-  &.mdc-text-field--focused:not(.mdc-text-field--invalid) {
+  /* &.mdc-text-field--focused:not(.mdc-text-field--invalid) {
     @include mdc-text-field-label-color(on-primary);
-  }
+  } */
 }
 
 .button-container {
@@ -44,6 +44,6 @@
   }
 }
 
-.cancel {
+/* .cancel {
   @include mdc-button-ink-color(on-primary);
-}
+} */
